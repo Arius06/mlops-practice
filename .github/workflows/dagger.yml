@@ -26,5 +26,5 @@ jobs:
         with:
           workdir: go
           verb: run
-          arg: go run pipeline.go
+          args: go run pipeline.go
           version: 0.21.4
